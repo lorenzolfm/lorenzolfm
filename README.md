@@ -1,3 +1,4 @@
-### Olá, Mundo! 👋
+### Hello World! 👋
 
-Meu nome é Lorenzo, sou estudande de Ciência da Computação da Universidade Federal de Santa Catarina.
+My name is Lorenzo, I'm a Computer Science student from Brazil.
+
