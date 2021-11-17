@@ -1,4 +1,3 @@
-### Hello World! 👋
+### Hello World 👋
 
-My name is Lorenzo, I'm a Computer Science student from Brazil.
-
+My name is Lorenzo, I'm currently working with React Native.
