@@ -1,3 +1,3 @@
 ### Hello World 👋
 
-My name is Lorenzo, I'm currently working with React Native.
+My name is Lorenzo. I'm a developer, currently working with cryptocurrencies.
