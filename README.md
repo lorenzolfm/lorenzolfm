@@ -1,3 +1,3 @@
 ### Hello World 👋
 
-My name is Lorenzo. I'm a developer, currently working with cryptocurrencies.
+My name is Lorenzo. I'm a developer that wants to fix the money.
