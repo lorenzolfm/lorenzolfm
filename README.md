@@ -1,3 +1,1 @@
-### Hello World 👋
-
-Fix the money, fix the world.
+### Fix the money, fix the world.
