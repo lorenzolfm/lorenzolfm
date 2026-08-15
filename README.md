@@ -2,7 +2,7 @@
 
 ## I'm Lorenzo
 
-I'm a Backend Engineer at **Bipa**, where I ship code that backs a bank and secures people's money. Bipa is Brazil's first Bitcoin bank and one of the first in the world to integrate with the Lightning Network. 
+I'm a Senior Backend Engineer at **Bipa**, where I ship code that backs a bank and secures people's money. Bipa is Brazil's first Bitcoin bank and one of the first in the world to integrate with the Lightning Network. 
 
 I'm also a developer advocate at **Vinteum**, where I teach developers how Bitcoin and other freedom tech works and how they can leverage these technologies to build cool shit. 
 
